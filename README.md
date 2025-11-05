@@ -21,7 +21,7 @@ The dataset (CSV) is stored in an S3 bucket and used as the external storage sou
 
 **S3 Snapshot**
 
-![AWS S3 Screenshot](AWSS3.png)
+![AWS S3 Screenshot](https://github.com/Adithyaskashyap/Agriculture-Analysis/blob/a03a4999239e4977c72f591c9cae6bd9f193096f/AWS%20S3.png)
 
 ---
 

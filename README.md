@@ -31,7 +31,7 @@ Data from S3 is integrated & staged into Snowflake using External Stage + Storag
 
 **Snowflake Script Snapshot**
 
-![Snowflake Integration Screenshot](snowflakeintegrationandimport.png)
+![Snowflake Integration Screenshot](https://github.com/Adithyaskashyap/Agriculture-Analysis/blob/d583a5192eedd5700506bc949b9e54d262f60214/Snowflake%20integration%20and%20import.png)
 
 Steps performed:
 
